@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Test {
 	
+	//this is id
 	private String id;
 	public Test(String id, String name) {
 		super();
