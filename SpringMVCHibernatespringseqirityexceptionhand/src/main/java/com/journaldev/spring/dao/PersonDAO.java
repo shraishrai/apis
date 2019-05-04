@@ -13,4 +13,6 @@ public interface PersonDAO {
 	public Person getPersonById(int id);
 	public PersonDetail getPersonDtlById(int id);
 	public void removePerson(int id);
+	//commentr
+	
 }
